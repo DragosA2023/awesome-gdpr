@@ -1,0 +1,45 @@
+═══════════════════════════════════════════════════════════
+  DPIA GENERATOR - INSTALARE PE WINDOWS
+═══════════════════════════════════════════════════════════
+
+📦 INSTALARE RAPIDĂ - 3 PAȘI:
+
+1. VERIFICĂ PYTHON:
+   - Deschide CMD (Command Prompt)
+   - Tastează: python --version
+   - Trebuie să vezi: Python 3.10.x sau mai nou
+   - Dacă NU: Instalează de la https://www.python.org/downloads/
+     IMPORTANT: Bifează "Add Python to PATH" la instalare!
+
+2. RULEAZĂ SCRIPTUL DE INSTALARE:
+   - Click dreapta pe fișierul:
+     INSTALL_WINDOWS.ps1
+   - Alege: "Run with PowerShell"
+   - Urmează instrucțiunile
+
+3. GATA!
+   - Dublu-click pe shortcut-ul de pe Desktop
+   SAU
+   - Dublu-click pe:
+     C:\Claude\dpia-generator\RUN_DPIA_GENERATOR.bat
+
+═══════════════════════════════════════════════════════════
+
+INSTALARE MANUALĂ:
+  Vezi fișierul: INSTALL_MANUAL_WINDOWS.md
+
+DOCUMENTAȚIE COMPLETĂ:
+  Vezi: dpia-generator\README.md
+
+PROBLEME?
+  Citește secțiunea Troubleshooting din:
+  INSTALL_MANUAL_WINDOWS.md
+
+═══════════════════════════════════════════════════════════
+
+SOFTWARE: DPIA Generator v1.0
+AUTOR: GDPR Expert System
+LICENȚĂ: MIT
+WEBSITE: https://github.com/DragosA2023/awesome-gdpr
+
+═══════════════════════════════════════════════════════════
