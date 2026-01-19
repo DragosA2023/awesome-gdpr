@@ -1,0 +1,29 @@
+# DPIA Generator - Requirements
+# Python 3.10+
+
+# Document Processing
+python-docx>=0.8.11  # Citire/scriere documente DOCX
+pdfplumber>=0.9.0    # Citire documente PDF
+PyPDF2>=3.0.0        # Alternative PDF reader
+
+# Rich CLI Interface
+rich>=13.0.0         # Beautiful terminal output
+click>=8.1.0         # CLI framework
+questionary>=1.10.0  # Interactive prompts
+
+# Data Processing
+pyyaml>=6.0          # Configuration files
+jinja2>=3.1.0        # Template engine
+python-dateutil>=2.8.0  # Date handling
+
+# Web Research (optional)
+requests>=2.31.0     # HTTP requests
+beautifulsoup4>=4.12.0  # HTML parsing
+
+# Utilities
+colorama>=0.4.6      # Terminal colors
+tabulate>=0.9.0      # Table formatting
+
+# Development (optional)
+pytest>=7.4.0        # Testing
+black>=23.0.0        # Code formatting
