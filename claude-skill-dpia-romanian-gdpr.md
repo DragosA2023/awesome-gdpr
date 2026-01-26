@@ -1,5 +1,5 @@
 ---
-name: DPIA Generation - Romanian GDPR
+name: dpia-generation-romanian-gdpr
 description: Generates comprehensive Data Protection Impact Assessments (DPIA / Evaluarea Impactului asupra Protecției Datelor) following Romanian legal practice and GDPR compliance structure. Use when creating DPIA documents, analyzing high-risk data processing, or documenting legitimate interest assessments in Romanian legal context.
 ---
 
